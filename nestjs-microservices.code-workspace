@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "client-gateway"
+		},
+		{
+			"path": "orders-ms"
+		},
+		{
+			"path": "products-ms"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {}
+	}
+}
